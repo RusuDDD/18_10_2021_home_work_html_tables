@@ -1,0 +1,79 @@
+table ,tr ,td {
+    border: 5px #BDD0E9 solid ;
+    width: 40%;
+    height: 50px;
+    margin: 0 auto;
+    border-spacing: 35px;
+    border-collapse: separate;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+td{
+    width: 50px;
+}
+#Four{
+    height: 150px;
+    background-color: #E2EFD9;
+    border: 1px black solid;
+}
+.cal1{
+    background-color: #4E66BD;
+    border: 1px black solid;
+}
+.cal2{
+    background-color: #F7CBAC;
+    border: 1px black solid;
+}
+.cal3{
+    background-color: #CB463F;
+    border: 1px black solid;
+}
+.cal5{
+    background-color: #F7CBAC;
+    border: 1px black solid;
+}
+.cal6{
+    background-color: #BF9000;
+    border: 1px black solid;
+}
+.cal7{
+    background-color: #7EFFFF;
+    border: 1px black solid;
+}
+.cal8{
+    background-color: #7EFFFF;
+    border: 1px black solid;
+}
+.cal9{
+    background-color: #FEE599;
+    border: 1px black solid;
+}
+.cal10{
+    background-color: #FEE599;
+    border: 1px black solid;
+}
+.cal11{
+    background-color: #FEE599;
+    border: 1px black solid;
+}
+.cal12{
+    background-color: #FEE599;
+    border: 1px black solid;
+}
+.cal13{
+    background-color: #A8D08D;
+    border: 1px black solid;
+}
+.cal14{
+    background-color: #A8D08D;
+    border: 1px black solid;
+}
+.cal15{
+    background-color: #A8D08D;
+    border: 1px black solid;
+}
+.cal16{
+    background-color: #A5A5A5;
+    border: 1px black solid;
+}

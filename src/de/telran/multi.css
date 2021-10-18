@@ -1,0 +1,37 @@
+table {
+    width: 60%;
+    height: 250px;
+    border: 2px dotted tomato;
+    margin: 0 auto;
+    border-radius: 3px;
+
+}
+
+.col1 {
+    background-color: #FC0D1B;
+    border-radius: 3px;
+
+}
+
+.col2 {
+    background-color: #0B24FB;
+    border-radius: 3px;
+}
+
+.col3 {
+    background-color: #FFFD38;
+    border-radius: 3px;
+}
+.col4{
+    background-color: #0F7F12;
+    border-radius: 3px;
+}
+.col5{
+    background-color: #2DFFFE;
+    border-radius: 3px;
+}
+.col6{
+    background-color: #FD28FC;
+    border-radius: 3px;
+}
+

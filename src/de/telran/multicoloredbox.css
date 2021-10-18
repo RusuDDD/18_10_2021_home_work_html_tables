@@ -1,0 +1,55 @@
+
+.drai1 {
+    background-color: blue;
+    width: 100%;
+    border: 2px;
+    border-style: dotted;
+    padding: 50px;
+    margin: 0px 200px;
+}
+
+.drai2 {
+    background-color: red;
+    width: 10px;
+    border: 2px;
+    border-style: dotted;
+    padding: 50px;
+    height: 300px;
+    position: fixed;
+    z-index: 2;
+}
+
+.drai3 {
+    background-color: green;
+    width: 30%;
+    border: 2px;
+    border-style: wave;
+    padding: 50px;
+}
+
+.drai4 {
+    background-color: yellow;
+    width: 10%;
+    border: 10px;
+    border-style: wave;
+    padding: 50px;
+    margin: 0px 200px;
+}
+
+.drai5 {
+    background-color: cyan;
+    width: 10%;
+    border: 10px;
+    border-style: wave;
+    padding: 50px;
+    margin: 0px 200px;
+}
+
+.drai6 {
+    background-color: blueviolet;
+    width: 10%;
+    border: 10px;
+    border-style: wave;
+    padding: 50px;
+
+}
